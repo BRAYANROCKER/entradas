@@ -1,0 +1,103 @@
+{
+  "links": [
+    {
+      "title": "Pagina Web",
+      "description": "Se sube archivos y aportes Diariamente",
+      "url": "https://rebrand.ly/BrayanRockerWeb"
+    },
+    {
+      "title": "Blog",
+      "url": "https://rebrand.ly/BrayanRockerBlog"
+    },
+    {
+      "title": "Facebook Personal",
+      "url": "https://rebrand.ly/FacebookBrayanRocker"
+    },
+    {
+      "title": "Tu Blog Cristiano",
+      "url": "https://rebrand.ly/Tublogcristiano"
+    },
+    {
+      "title": "Cuenta en Youtube",
+      "urls": [
+        "https://rebrand.ly/NuevoCanalBrayanRockerYoutube",
+        "https://rebrand.ly/BrayanRockerYoutube",
+        "https://rebrand.ly/PeliculasDeVideoJuegos"
+      ]
+    }
+  ],
+  "spoilers": [
+    {
+      "title": "Video Tributo",
+      "url": "https://rebrand.ly/VideoTributo",
+      "image": {
+        "default": "https://static.wixstatic.com/media/54dbdb_7898a6f78be84c3a962fb3969e6ff9de~mv2.png",
+        "hover": "https://static.wixstatic.com/media/54dbdb_0763874bae3e4b3d90ff0fe4567218cc~mv2.png",
+        "banner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9-tWtcwS-MLGcSQS8STXy665hZe4wsx5ZvdZeO9iihjvgXnxaniYNmaWeTDWb_uZoeX7cIFGmAxO5dMwAfpuEZlhF_RMLF29HRUSFf7-yLKCuVHGcEjJqE0558y4LzxjATpTowveuJa7U91D2KChKnbfIr02j3e2dRO9A-xR6bqHKW5Lo28pftST0QW0/w640-h359/portadas%20de%20youtube%20brayanrocker.jpg",
+        "bannerWidth": 640,
+        "bannerHeight": 359
+      },
+      "iframe": {
+        "src": "https://www.youtube.com/embed/YH9TWY8d8QE",
+        "width": 560,
+        "height": 315,
+        "title": "YouTube video player",
+        "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+        "allowfullscreen": true
+      }
+    },
+    {
+      "title": "Tutorial Como Saltar La Publicidad",
+      "url": "https://rebrand.ly/TutorialComoSaltarLaPublicidad",
+      "image": {
+        "default": "https://static.wixstatic.com/media/54dbdb_73603702a3fa47e0b000453e1661b680~mv2.png",
+        "hover": "https://static.wixstatic.com/media/54dbdb_30289a3af99f42ca9dee7852572be07a~mv2.png",
+        "banner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyNgsNGdiTwutCqPzp-Axf-zDSnVeZDI9uhrndPaxgFIxXvCcEwORKYgQ17F2l7_qoMSfZwC-RxE2yCswX5mdSrKs_a-F2xcDiuqAi7LUYtB_h94m_YR-Dpt_W1-t3ukYr2Nq4Fk9UVJCcSE12EkTyp1QUqYQ24cUyUruO5a05AhXnFnqCyL7qsezQ1L8/w640-h358/portada%20de%20como%20saltar%20publicidad%20brayanrocker.jpg",
+        "bannerWidth": 640,
+        "bannerHeight": 358
+      }
+    }
+  ],
+  "social_media": [
+    {
+      "title": "Whatsapp",
+      "url": "https://rebrand.ly/WhatsappBrayanRocker"
+    },
+    {
+      "title": "Telegram",
+      "url": "https://rebrand.ly/TelegramBrayanRocker"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://rebrand.ly/InstagramBrayanRocker"
+    },
+    {
+      "title": "TikTok",
+      "url": "https://rebrand.ly/TikTok-BrayanRocker"
+    },
+    {
+      "title": "Pinterest",
+      "url": "https://rebrand.ly/PinterestBrayanRocker"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://rebrand.ly/TwitterBrayanRocker"
+    },
+    {
+      "title": "VK",
+      "url": "https://rebrand.ly/VkBrayanRocker"
+    },
+    {
+      "title": "Twitch",
+      "url": "https://rebrand.ly/TwitchBrayanrocker"
+    },
+    {
+      "title": "Likee",
+      "url": "https://rebrand.ly/LikeeBrayanRocker"
+    },
+    {
+      "title": "SoundCloud",
+      "url": "https://rebrand.ly/soundcloudbrayanrocker"
+    }
+  ]
+}
